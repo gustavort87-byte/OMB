@@ -1,0 +1,9 @@
+# Sistema operativo / editores
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+~$*
+.vscode/
+.claude/
+node_modules/
